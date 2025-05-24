@@ -1,0 +1,27 @@
+# Data
+data/raw/
+data/processed/
+data/reference/
+data/pangenome/
+
+# Results
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+Omics-Notes/.obsidian/plugins/large-language-models/data.json
+Omics-Notes/.obsidian/plugins/large-language-models/data.json
+gi
