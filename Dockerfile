@@ -1,7 +1,7 @@
 # Use CUDA-enabled base image for GPU support
-FROM ghcr.io/ucsd-ets/scipy-ml-notebook:2024.1-stable
+FROM ghcr.io/ucsd-ets/rstudio-notebook:2025.2-stable
 
-LABEL maintainer="Your Name <your.email@example.com>"
+LABEL maintainer="Zakir Alibhai <zalibhai@ucsd.edu>"
 
 # Switch to root for system package installation
 USER root
